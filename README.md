@@ -37,10 +37,6 @@
 - Mobile applications  
 - Full-stack web development
 
-        
- ### 🎯 Objectifs Actuels
-![Working](https://media.giphy.com/media/3o7btPduOj7EmvTTaw/giphy.gif)
-
 
 ## 📫 Contact Me  
 
@@ -51,21 +47,13 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/wissal_benkouider)
 
 
-
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love hiking and have summited 5 mountains in different countries.
-
 <!---
 wissal-code07/wissal-code07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ### 📊 Mes Statistiques
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissal-code07&show_icons=true&theme=radical)
-
-### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wissal-code07&theme=radical)
-
-### 📚 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wissal-code07&layout=compact&theme=radical)
 
 
