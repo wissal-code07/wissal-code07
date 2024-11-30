@@ -27,14 +27,14 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
-
-
-## 🌱 Currently Learning
-- Machine Learning with Python
-- Advanced React patterns
-- 💞️ I’m looking to collaborate on open-source projects, mobile applications, and website development.
-- 📫 How to reach me:
+🌱 Currently Learning
+🌟 Machine Learning: Building predictive models with Python
+💻 Frontend Development: Exploring advanced React patterns
+📱 Mobile Development: Enhancing skills in building responsive applications
+💞️ Looking to Collaborate On
+        -Open-source projects
+        -Mobile applications
+        -Full-stack web development
   ## 📫 Contact Me  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissalbenkouider71@gmail.com)
