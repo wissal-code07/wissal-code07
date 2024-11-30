@@ -1,8 +1,9 @@
-- # Bonjour, je suis Wissal 👋
+- # Hello, I'am WISSAL 👋
 
-Bienvenue sur mon profil GitHub !
+>Bienvenue sur mon profil GitHub !
 
-> **Hello, it's Wissal, welcome to my profile!**
+**welcome to my profile!**
+
 - 👀 I’m interested in web development, AI, and mobile app development.
 
 ### ⚙️ Technologies
