@@ -27,11 +27,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-🌱 Currently Learning
-🌟 Machine Learning: Building predictive models with Python
-💻 Frontend Development: Exploring advanced React patterns
-📱 Mobile Development: Enhancing skills in building responsive applications
-💞️ Looking to Collaborate On
+-🌱 Currently Learning
+-🌟 Machine Learning: Building predictive models with Python
+-💻 Frontend Development: Exploring advanced React patterns
+-📱 Mobile Development: Enhancing skills in building responsive applications
+-💞️ Looking to Collaborate On
         -Open-source projects
         -Mobile applications
         -Full-stack web development
