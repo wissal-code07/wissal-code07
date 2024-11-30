@@ -1,10 +1,31 @@
 - 👋 Hi, I’m @wissal-code07
 - 👀 I’m interested in web development, AI, and mobile app development.
-- ## 🔧 Technologies & Tools
-- **Frontend**: React, Vue.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express, Python, Django
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Jenkins, GitHub Actions
+### ⚙️ Technologies
+
+#### 🖥️ **Frontend**
+- [React](https://reactjs.org/)
+- [Vue.js](https://vuejs.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### 🔧 **Backend**
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+
+#### 🗄️ **Databases**
+- [MySQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
+
+#### 🛠️ **Tools**
+- [Git](https://git-scm.com/)
+- [Docker](https://www.docker.com/)
+- [Jenkins](https://www.jenkins.io/)
+- [GitHub Actions](https://github.com/features/actions)
+
 ## 🌱 Currently Learning
 - Machine Learning with Python
 - Advanced React patterns
