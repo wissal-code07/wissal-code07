@@ -39,7 +39,8 @@
 
         
  ### 🎯 Objectifs Actuels
-![Working](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
+![Working](https://media.giphy.com/media/3o7btPduOj7EmvTTaw/giphy.gif)
+
 
 ## 📫 Contact Me  
 
@@ -60,9 +61,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 📊 Mes Statistiques
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissal-code07&show_icons=true&theme=radical)
-
-### 🧑‍💻 My GitHub Activity
-![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=wissal-code07&theme=github)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wissal-code07&theme=radical)
