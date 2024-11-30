@@ -27,15 +27,19 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
--🌱 Currently Learning
--🌟 Machine Learning: Building predictive models with Python
--💻 Frontend Development: Exploring advanced React patterns
--📱 Mobile Development: Enhancing skills in building responsive applications
--💞️ Looking to Collaborate On
-        -Open-source projects
-        -Mobile applications
-        -Full-stack web development
-  ## 📫 Contact Me  
+## 🌱 Currently Learning  
+- 🌟 Machine Learning: Building predictive models with Python  
+- 💻 Frontend Development: Exploring advanced React patterns  
+- 📱 Mobile Development: Enhancing skills in building responsive applications  
+
+## 💞️ Looking to Collaborate On  
+- Open-source projects  
+- Mobile applications  
+- Full-stack web development
+
+        
+ ### 🎯 Objectifs Actuels
+![Working](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
 
 ## 📫 Contact Me  
 
@@ -56,3 +60,14 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 📊 Mes Statistiques
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissal-code07&show_icons=true&theme=radical)
+
+### 🧑‍💻 My GitHub Activity
+![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=wissal-code07&theme=github)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wissal-code07&theme=radical)
+
+### 📚 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wissal-code07&layout=compact&theme=radical)
+
+
