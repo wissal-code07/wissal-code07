@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @wissal-code07
+- # Bonjour, je suis Wissal 👋
+
+Bienvenue sur mon profil GitHub !
+
+> **Hello, it's Wissal, welcome to my profile!**
 - 👀 I’m interested in web development, AI, and mobile app development.
 
 ### ⚙️ Technologies
