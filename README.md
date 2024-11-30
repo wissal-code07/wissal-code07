@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wissal-code07
 - 👀 I’m interested in web development, AI, and mobile app development.
-### ⚙️ Technologies
+
 ### ⚙️ Technologies
 
 #### 🖥️ **Frontend**
