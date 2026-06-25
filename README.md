@@ -41,7 +41,7 @@ class Wissal:
     ]
 
     fun_fact = "I debug with console.log() and I'm not ashamed 😄"
-```
+` ` `
 
 ---
 
@@ -146,13 +146,13 @@ class Wissal:
 
 <div align="center">
 
-```diff
+` ` `diff
 + 🌐 Full-Stack Web Applications (React / Node / Django)
 + 🤖 Computer Vision & AI Projects (PyTorch / OpenCV)
 + 📱 Mobile Applications (React Native / Flutter)
 + 🎨 Creative & Visual Development Projects
 + 💡 Open Source — anything interesting!
-```
+` ` `
 
 </div>
 
@@ -187,4 +187,3 @@ class Wissal:
 **Made with 💜 by [Wissal Benkouider](https://github.com/wissal-code07)**
 
 </div>
-
