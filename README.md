@@ -37,6 +37,7 @@ class Wissal:
         "🪐 COSMOS — Interactive Solar System (React + WebGL)",
         "🔥 FireGuard — Wildfire Detection with EfficientNet-B1",
         "🏎️  Rush Hour — React + Flask puzzle game",
+        "🧕 Abayas Vente — Full-Stack E-Commerce (React + Django)",
     ]
 
     fun_fact = "I debug with console.log() and I'm not ashamed 😄"
@@ -51,6 +52,7 @@ class Wissal:
 | Project | Stack | Description |
 |---------|-------|-------------|
 | 🪐 [COSMOS](https://github.com/wissal-code07) | React · CSS · Canvas | Interactive solar system with real NASA textures and orbital animations |
+| 🧕 [Abayas Vente](https://github.com/wissal-code07/abayas-vente) | React · Django · PostgreSQL | Full-stack e-commerce platform — catalogue, cart, orders, auth & admin dashboard |
 | 🔥 [FireGuard](https://github.com/wissal-code07/fireguard-wildfire-detection) | PyTorch · EfficientNet-B1 · Grad-CAM | Wildfire detection CNN with visual explanations |
 | 🏎️ [Rush Hour](https://github.com/wissal-code07/Rush-hour-game) | React · Flask · Python | Classic sliding puzzle game with AI solver |
 | 🛍️ LUMIÈRE | React · CSS | Single-page e-commerce frontend for cosmetics |
@@ -77,6 +79,7 @@ class Wissal:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🤖 AI & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
