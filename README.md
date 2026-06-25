@@ -1,39 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=WIZZIUM&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=WISSAL%20BENKOUIDER&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Visual%20Computing&descAlignY=58&descSize=18" width="100%"/>
 
-# 👋 Hello, I'm WISSAL
+<br/>
 
-### 💫 Full-Stack Developer | AI Enthusiast | Mobile App Creator
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Master's+in+Visual+Computing+%F0%9F%8E%93;React+%7C+Python+%7C+Deep+Learning;Building+beautiful+%26+intelligent+apps;Open+to+remote+opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+Web+Developer;AI+%26+Mobile+App+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wissal-code07&color=blueviolet&style=for-the-badge)](https://github.com/wissal-code07)
-[![GitHub followers](https://img.shields.io/github/followers/wissal-code07?style=for-the-badge&color=blueviolet)](https://github.com/wissal-code07)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![Profile Views](https://komarev.com/ghpvc/?username=wissal-code07&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/wissal-code07)
+[![GitHub followers](https://img.shields.io/github/followers/wissal-code07?style=for-the-badge&color=blueviolet&label=Followers)](https://github.com/wissal-code07?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/wissal-code07?style=for-the-badge&color=blueviolet&label=Stars)](https://github.com/wissal-code07)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-```javascript
-const wissal = {
-    code: ["JavaScript", "Python", "HTML", "CSS", "SQL"],
-    technologies: {
-        frontend: ["React", "Vue.js", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express", "Django", "Python"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "Jenkins", "GitHub Actions"],
-        mobile: ["React Native", "Flutter"]
-    },
-    currentFocus: ["Machine Learning", "Advanced React Patterns", "Mobile Development"],
-    interests: ["Web Development", "AI", "Mobile Apps", "Open Source"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+```python
+class Wissal:
+    name       = "Wissal Benkouider"
+    location   = "Algeria 🇩🇿"
+    degree     = "M.Sc. Visual Computing — USTHB"
+    status     = "Open to work · Remote friendly 🌍"
+
+    skills = {
+        "frontend"  : ["React", "Vue.js", "HTML5", "CSS3", "TypeScript"],
+        "backend"   : ["Node.js", "Express", "Django", "Python"],
+        "AI / CV"   : ["PyTorch", "OpenCV", "EfficientNet", "CNNs", "Grad-CAM"],
+        "databases" : ["MongoDB", "MySQL", "PostgreSQL"],
+        "tools"     : ["Docker", "Git", "GitHub Actions", "Power BI"],
+    }
+
+    currently_building = [
+        "🪐 COSMOS — Interactive Solar System (React + WebGL)",
+        "🔥 FireGuard — Wildfire Detection with EfficientNet-B1",
+        "🏎️  Rush Hour — React + Flask puzzle game",
+    ]
+
+    fun_fact = "I debug with console.log() and I'm not ashamed 😄"
 ```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🪐 [COSMOS](https://github.com/wissal-code07) | React · CSS · Canvas | Interactive solar system with real NASA textures and orbital animations |
+| 🔥 [FireGuard](https://github.com/wissal-code07/fireguard-wildfire-detection) | PyTorch · EfficientNet-B1 · Grad-CAM | Wildfire detection CNN with visual explanations |
+| 🏎️ [Rush Hour](https://github.com/wissal-code07/Rush-hour-game) | React · Flask · Python | Classic sliding puzzle game with AI solver |
+| 🛍️ LUMIÈRE | React · CSS | Single-page e-commerce frontend for cosmetics |
+| ⚙️ ProLang Compiler | C · Flex · Bison | Mini-compiler: ProLang → 8086 Assembly with optimizations |
+
+</div>
 
 ---
 
@@ -41,19 +64,26 @@ const wissal = {
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🤖 AI & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -63,37 +93,9 @@ const wissal = {
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-| ⚛️ Advanced React | 🤖 Machine Learning | 📱 Mobile Development |
-|:---:|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Machine Learning"> | <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Mobile Development">| <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Advanced React">  |
-| Exploring advanced patterns & hooks | Building predictive models with Python | Building responsive applications |
-
-</div>
-
----
-
-## 🤝 Let's Collaborate On
-
-<div align="center">
-
-```diff
-+ 🌟 Open Source Projects
-+ 📱 Mobile Applications
-+ 🌐 Full-Stack Web Development
-+ 🤖 AI & Machine Learning Projects
-+ 💡 Innovative Tech Solutions
-```
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
@@ -103,13 +105,13 @@ const wissal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wissal-code07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF1493&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wissal-code07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF1493&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=wissal-code07&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF1493&currStreakLabel=FF1493&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wissal-code07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wissal-code07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wissal-code07&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wissal-code07&custom_title=Contribution%20Graph&bg_color=0D1117&color=8A2BE2&line=FF1493&point=FFFFFF&area_color=8A2BE2&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wissal-code07&custom_title=Contribution+Graph&bg_color=0D1117&color=8A2BE2&line=FF1493&point=FFFFFF&area_color=8A2BE2&area=true&hide_border=true" width="98%" alt="Activity Graph" />
 
 </div>
 
@@ -119,7 +121,35 @@ const wissal = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wissal-code07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wissal-code07&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| 🪐 WebGL / Three.js | 🤖 Deep Learning CV | 📊 Data Analysis |
+|:---:|:---:|:---:|
+| 3D rendering & interactive visualizations | CNNs, transfer learning, model explainability | Power BI, pandas, feature engineering |
+
+</div>
+
+---
+
+## 🤝 Open to Collaborate On
+
+<div align="center">
+
+```diff
++ 🌐 Full-Stack Web Applications (React / Node / Django)
++ 🤖 Computer Vision & AI Projects (PyTorch / OpenCV)
++ 📱 Mobile Applications (React Native / Flutter)
++ 🎨 Creative & Visual Development Projects
++ 💡 Open Source — anything interesting!
+```
 
 </div>
 
@@ -129,11 +159,11 @@ const wissal = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissalbenkouider71@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benkouider-wissal-59a7172b7/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/WIZZOU#0810)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wissal-code07)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/benkouider2003)
+[![Email](https://img.shields.io/badge/wissalbenkouider71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissalbenkouider71@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Wissal%20Benkouider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benkouider-wissal-59a7172b7/)
+[![GitHub](https://img.shields.io/badge/wissal--code07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wissal-code07)
+[![Twitter](https://img.shields.io/badge/@benkouider2003-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/benkouider2003)
+[![Discord](https://img.shields.io/badge/WIZZOU%230810-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/WIZZOU#0810)
 
 </div>
 
@@ -142,20 +172,16 @@ const wissal = {
 <div align="center">
 
 ### 💭 Quote of the Day
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/wissal-code07/wissal-code07/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=28&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
 
-**⭐ From [wissal-code07](https://github.com/wissal-code07) with 💜**
+**Made with 💜 by [Wissal Benkouider](https://github.com/wissal-code07)**
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wissal-code07&layout=compact&theme=radical)
-
 
