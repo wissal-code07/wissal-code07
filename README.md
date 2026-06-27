@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+---python
 class Wissal:
     name       = "Wissal Benkouider"
     location   = "Algeria 🇩🇿"
@@ -41,7 +41,7 @@ class Wissal:
     ]
 
     fun_fact = "I debug with console.log() and I'm not ashamed 😄"
-` ` `
+---
 
 ---
 
@@ -187,4 +187,4 @@ class Wissal:
 **Made with 💜 by [Wissal Benkouider](https://github.com/wissal-code07)**
 
 </div>
-```
+---
